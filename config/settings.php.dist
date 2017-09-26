@@ -1,0 +1,12 @@
+<?php
+
+return [
+    'debug' => true,
+    'version' => '1.0.0',
+    'php' => [
+        'date.timezone' => 'America/Sao_Paulo',
+        'display_errors' => false,
+        'display_startup_errors' => false,
+        'error_reporting' => E_ALL
+    ]
+];
